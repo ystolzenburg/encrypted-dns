@@ -17,7 +17,7 @@
 					<string>45.90.30.78</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.nextdns.io/7d6c2a/iPhone%20von%20Yannick</string>
+				<string>https://dns.nextdns.io/7d6c2a/iPhone</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use NextDNS Encrypted DNS over TLS</string>
